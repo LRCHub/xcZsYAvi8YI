@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "SHINOBI",
+  "base_artist": "Reol",
+  "createdAt": "2026-02-14T02:33:55.546712Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shinobi vs. Dragon Ninja",
+      "artist": "Lostprophets",
+      "has_synced": true,
+      "path": "select/01_Shinobi_vs._Dragon_Ninja_Lostprophets.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shinobi Vs. Dragon Ninja",
+      "artist": "Lostprophets",
+      "has_synced": false,
+      "path": "select/02_Shinobi_Vs._Dragon_Ninja_Lostprophets.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shinobi No Susume",
+      "artist": "Mafumafu",
+      "has_synced": true,
+      "path": "select/03_Shinobi_No_Susume_Mafumafu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hitomi's Shinobi",
+      "artist": "Emmure",
+      "has_synced": true,
+      "path": "select/04_Hitomi's_Shinobi_Emmure.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shinobi Vs. Dragon Ninja",
+      "artist": "Lost Prophets",
+      "has_synced": true,
+      "path": "select/05_Shinobi_Vs._Dragon_Ninja_Lost_Prophets.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shinobi Vs. Dragon Ninja",
+      "artist": "Lostprophets",
+      "has_synced": true,
+      "path": "select/06_Shinobi_Vs._Dragon_Ninja_Lostprophets.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shinobi No Kami (Hashirama Rap)",
+      "artist": "Rustage",
+      "has_synced": true,
+      "path": "select/07_Shinobi_No_Kami_(Hashirama_Rap)_Rustage.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "SHINOBI-NAI - 雫カリウタver.",
+      "artist": "Polkadot Stingray",
+      "has_synced": true,
+      "path": "select/08_SHINOBI-NAI_-_雫カリウタver._Polkadot_Stingray.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SHINOBI-NAI (雫カリウタver.)",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/09_SHINOBI-NAI_(雫カリウタver.)_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shinobi Naku",
+      "artist": "Alpha Wolf",
+      "has_synced": true,
+      "path": "select/10_Shinobi_Naku_Alpha_Wolf.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shinobi Strike 3000",
+      "artist": "VICTORIUS",
+      "has_synced": true,
+      "path": "select/11_Shinobi_Strike_3000_VICTORIUS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shinobi",
+      "artist": "Just Hush",
+      "has_synced": true,
+      "path": "select/12_Shinobi_Just_Hush.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SHINOBI",
+      "artist": "Reol",
+      "has_synced": false,
+      "path": "select/pl_01_SHINOBI_Reol.txt"
+    }
+  ]
+}
